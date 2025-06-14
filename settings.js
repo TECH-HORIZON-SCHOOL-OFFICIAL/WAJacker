@@ -22,5 +22,5 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "",// session id 💙
-HACKER : process.env.HACKER || "94704638406" //Addmin number 💙
+HACKER : process.env.HACKER || "94743706283" //Addmin number 💙
 };
